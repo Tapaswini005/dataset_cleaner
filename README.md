@@ -10,6 +10,10 @@ A powerful and interactive **Streamlit-based Data Cleaning Tool** that helps use
 - Upload CSV and Excel (.xlsx) files
 - Supports multiple CSV encodings
 - Automatically standardizes common missing values
+- ## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
 
 ### 🩺 Automatic Dataset Diagnostics
 - Detects duplicate rows
