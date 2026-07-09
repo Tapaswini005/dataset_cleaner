@@ -13,7 +13,8 @@ A powerful and interactive **Streamlit-based Data Cleaning Tool** that helps use
 - ## 📸 Screenshots
 
 ### Home Page
-![Home](screenshots/home.png)
+![Home](dataset_cleaner/Smart-Dataset-Cleaner/screenshots
+/home.png)
 
 ### 🩺 Automatic Dataset Diagnostics
 - Detects duplicate rows
